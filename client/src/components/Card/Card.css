@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    margin: 20px 0;
+}
+.card {
+    width: 30%;
+    padding: 10px;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 29px -8px #000000; 
+    box-shadow: 0px 0px 29px -8px #000000;
+}
+.desc {
+    color: #333;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+.cardButton {
+    border: none;
+    border-radius: 20px;
+    background-color: #924966;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
